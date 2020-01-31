@@ -1,0 +1,22 @@
+{
+  "name": "android",
+  "version": "1.0.0",
+  "description": "Android app - Android studio",
+  "main": "android.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MkMinhTien/Android.git"
+  },
+  "author": "Android",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MkMinhTien/Android/issues"
+  },
+  "homepage": "https://github.com/MkMinhTien/Android#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
